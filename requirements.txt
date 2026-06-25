@@ -1,0 +1,12 @@
+pandas
+numpy
+pyspark
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-pubsub
+apache-beam[gcp]
+faker
+python-dotenv
+jupyter
+matplotlib
+seaborn
